@@ -1,0 +1,9 @@
+bool Hall_sensors
+bool alarm
+bool rotation_dir
+bool brake
+bool potentiometer_ref_voltage
+bool actuator_right_nc
+bool actuator_left_nc
+bool max_error
+float32 current_value

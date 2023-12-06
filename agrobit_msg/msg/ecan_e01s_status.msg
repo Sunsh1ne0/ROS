@@ -1,0 +1,7 @@
+int64 timestamp_ms
+int64 socket_descriptor
+bool socket_creation_status
+bool network_address_status
+bool ecan_connection_status
+uint16 error_reading_counter
+uint16 error_sending_counter

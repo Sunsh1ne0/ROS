@@ -1,0 +1,10 @@
+float32 NH3
+float32 CO
+float32 H2S
+float64 pressure
+float32 lumen
+float32 IR_temperature
+float32 outside_humidity
+float64 outside_temperature
+float32 CO2
+float32 temperature_inside

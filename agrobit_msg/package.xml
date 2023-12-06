@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>agrobit_msg</name>
+  <version>0.0.0</version>
+  <description>message_pack for agrobit nodes</description>
+
+  <maintainer email="yashart@todo.todo">yashart</maintainer>
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>message_generation</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <exec_depend>message_runtime</exec_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>

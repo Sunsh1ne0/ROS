@@ -1,0 +1,7 @@
+int16 actuator_right_extenshion
+int16 actuator_left_extenshion
+int16 actuator_mid_point
+int8 actuator_right_pwm
+int8 actuator_left_pwm
+int16 cultivator_speed
+int8 cultivator_pwm

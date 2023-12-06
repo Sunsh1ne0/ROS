@@ -1,0 +1,2 @@
+string uid
+string message

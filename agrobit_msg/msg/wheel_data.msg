@@ -1,0 +1,14 @@
+int64 command_id
+int32 flag
+int64 timestamp_ms
+int64 left_ticks
+int64 right_ticks
+int64 robot_command_id
+float32 left_wheel_speed
+float32 right_wheel_speed
+float32 left_wheel_speed_back
+float32 right_wheel_speed_back
+float32 left_wheel_target_speed
+float32 right_wheel_target_speed
+float32 left_wheel_target_speed_back
+float32 right_wheel_target_speed_back

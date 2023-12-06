@@ -1,0 +1,8 @@
+actuator_parameters:
+  kp_right: 45
+  kp_left: 100
+
+cultivator_parameters:
+  pulses_per_rotation: 590
+  kp: 3
+  ki: 5

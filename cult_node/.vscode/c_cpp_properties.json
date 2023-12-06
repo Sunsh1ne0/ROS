@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sergey/ros_prj_cultivator/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/sergey/ros_prj_cultivator/src/cult_node/include/**",
+        "/home/sergey/ros_prj_cultivator/src/cultivator_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

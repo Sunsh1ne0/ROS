@@ -1,0 +1,16 @@
+wheel_parameters:
+  wheel_diameter_in_mm: 350.0
+  number_of_ticks_per_turn: 300
+
+chassis_parameters:
+  robot_track_in_mm: 323.0
+  robot_wheelbase_in_mm: 357.0
+
+pid_controller_parameters:
+  kp: 3.0
+  kd: 9.0
+  ki: 0.0
+
+wheels_controller_parameters:
+  k_steering: 0.0025
+  command_actuality_time: 1.0

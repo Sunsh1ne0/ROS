@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/user/catkin_rover2/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/user/catkin_rover2/src/EulersAng/include/**",
+        "/home/user/catkin_rover2/src/agrobit_msg/include/**",
+        "/home/user/catkin_rover2/src/ros_astra_camera/include/**",
+        "/home/user/catkin_rover2/src/can_transceiver/include/**",
+        "/home/user/catkin_rover2/src/can_transceiver_2/include/**",
+        "/home/user/catkin_rover2/src/cult_node/include/**",
+        "/home/user/catkin_rover2/src/imu_l3gd20_node/include/**",
+        "/home/user/catkin_rover2/src/sensors_data_processing/include/**",
+        "/home/user/catkin_rover2/src/wheels_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

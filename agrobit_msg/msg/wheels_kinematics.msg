@@ -1,0 +1,7 @@
+int64 timestamp_ms
+float32 left_target_speed
+float32 left_current_speed
+int32 left_encoder
+float32 right_target_speed
+float32 rigth_current_speed
+int32 right_encoder
